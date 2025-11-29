@@ -11,11 +11,10 @@ Summary: A non-validating SQL parser module for Python.
 
 Development: https://github.com/andialbrecht/sqlparse
 
-Documentation: https://sqlparse.readthedocs.org
+Documentation: https://sqlparse.readthedocs.org/
 
 sqlparse is a non-validating SQL parser for Python. It provides support
 for parsing, splitting and formatting SQL statements.
-
 
 Current build status
 ====================
